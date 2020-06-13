@@ -1,9 +1,10 @@
- # Strategy Pattern
+ # Currency App
 
 
 # Özet
-* Java Strategy Pattern uygulanarak oluşturduğum Text Editor.
-* PDF - TXT - XML - Docx uygulamalarını kolayca açmanızı sağlamaktadır.
+* Currency App mevcutta kullandığım api ile 3 para bitimini ekrana yansıtmaktadır.
+* Mevcut değişimler grafiğe aktarılmaktadır.
+
 
 # Kurulum
 * Lib klasörünü NetBeans'da oluşturmuş olduğunuz projenize dahil ediniz.
