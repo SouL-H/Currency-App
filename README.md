@@ -12,6 +12,7 @@
 
 # Görünüm
 <p align="center">
-    <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Strategy%20Pattern/img/img1.jpg?raw=true"  alt="Observer">
+    <img src="https://github.com/SouL-H/Currency-App/blob/master/img/img.jpg?raw=true"  alt="Observer">
+    <img src="https://github.com/SouL-H/Currency-App/blob/master/img/img1.jpg?raw=true"  alt="Observer">
  
 </p>
